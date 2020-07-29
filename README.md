@@ -12,10 +12,10 @@ Count number of words in the given string(Django starter project)
   
 # Images
 
-<img src="./img1.png" width="500" height ="300"/>
+<img src="./img3.png" width="500" height ="300"/>
 
 
-<img src="./img2.png" width="500" height ="300"/>
+<img src="./img4.png" width="500" height ="300"/>
   
 # Prerequisites
   * Django for backend
